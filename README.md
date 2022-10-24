@@ -79,7 +79,7 @@ this data was converted to dataframe and no of occurrence of each  tags were fou
 the hastag & count were put into a dataframe and bar chart was created to find which hashtag was trending.
 Bar chart for least used hashtags were also plotted but these hastags were filtered so that its related to medicine.
 From the twerets & hashtags we can find the health care & insurance forms the key hashtags used while tweeting.
-People are more intrested to tweet abojut these tags, moreover the text on this tags can provide insights on what patients are looking for & which serivce setting.
+People are more intrested to tweet about these tags, moreover the text on this tags can provide insights on what patients are looking for & which serivce setting.
 
 ## Week 6 Summary
 
@@ -94,12 +94,12 @@ Average Utilization also follows the trends similar to total count.
 The total count is no where near the max NHS could handle as per this data set.
 Other Practise Staff take more appointments, with GP following closely.
 
-There is  Are there significant changes in whether or not visits are attended?
+There is  Are there significant changes in whether visits are attended?
 There is considerable no of appointment is in DNA or Unknown status. 
 This needs to be looked into, there is a possibility if every GP follows common workflow the Unkown status may come down.
 
 Are there changes in terms of appointment type and the busiest months?
-Yes, end & begining of the year appointments are decreasing, otherewise increasing trend, except Unknown (this could be due to workflows followed by practise).
+Yes, end & beginning of the year appointments are decreasing, otherwise increasing trend, except Unknown (this could be due to workflows followed by practise).
 There has been reasonable increase in telephonic appointments.
 
 Are there any trends in time between booking an appointment?
